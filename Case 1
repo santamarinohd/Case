@@ -13,3 +13,5 @@ group by value
 having count(value) >=2 
 order by count(value) desc
 limit 5
+
+затраченное время-20мин , telegram - @nikita_n111
